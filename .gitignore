@@ -1,3 +1,4 @@
-"node_modules/" 
-"*.sqlite" 
-".env" 
+backend/node_modules/ 
+*.sqlite
+.env
+frontend/node_modules/
