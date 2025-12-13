@@ -51,6 +51,16 @@ cd backend
 npm test
 ```
 
+## Screenshots
+### Register
+<img width="2879" height="1342" alt="register" src="https://github.com/user-attachments/assets/c715be72-d3ba-4012-b37d-9f7e9718bfd6" />
+### Login
+<img width="2876" height="1350" alt="login" src="https://github.com/user-attachments/assets/1fcd20c7-78cd-4019-9e41-425bda2c27a4" />
+### User Dashboard
+<img width="2878" height="1345" alt="user-dashboard" src="https://github.com/user-attachments/assets/77318ea4-8c00-466c-9d6e-38cd7204c48e" />
+### Admin Dashboard
+<img width="2879" height="1337" alt="admin-dashboard" src="https://github.com/user-attachments/assets/a8668286-336f-403d-8712-88538e88d6a0" />
+
 ## My AI Usage
 
 ### AI Tools Used
